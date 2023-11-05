@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1672548402 source:c:\users\user\documents\github\cse115-8-id-2232360642-cyber-cafe-management\project cyber cafe mangement\main.c
+	<stdio.h>
+	<dos.h>
+	"splash.h"
+	"login.h"
+	"menu.h"
+	"member.h"
+
+1672158246 c:\users\user\documents\github\cse115-8-id-2232360642-cyber-cafe-management\project cyber cafe mangement\splash.h
+
+1672524367 c:\users\user\documents\github\cse115-8-id-2232360642-cyber-cafe-management\project cyber cafe mangement\login.h
+
+1672141621 c:\users\user\documents\github\cse115-8-id-2232360642-cyber-cafe-management\project cyber cafe mangement\signup.h
+
+1672546604 c:\users\user\documents\github\cse115-8-id-2232360642-cyber-cafe-management\project cyber cafe mangement\menu.h
+	"ave.h"
+
+1672300656 c:\users\user\documents\github\cse115-8-id-2232360642-cyber-cafe-management\project cyber cafe mangement\balance.h
+
+1672244740 c:\users\user\documents\github\cse115-8-id-2232360642-cyber-cafe-management\project cyber cafe mangement\exit.h
+
+1672420978 c:\users\user\documents\github\cse115-8-id-2232360642-cyber-cafe-management\project cyber cafe mangement\topup.h
+
+1672419988 c:\users\user\documents\github\cse115-8-id-2232360642-cyber-cafe-management\project cyber cafe mangement\perinfo.h
+
+1672541837 c:\users\user\documents\github\cse115-8-id-2232360642-cyber-cafe-management\project cyber cafe mangement\ave.h
+
+1672547885 c:\users\user\documents\github\cse115-8-id-2232360642-cyber-cafe-management\project cyber cafe mangement\member.h
+
+1672548404 source:d:\project cyber cafe mangement\main.c
+	<stdio.h>
+	<dos.h>
+	"splash.h"
+	"login.h"
+	"menu.h"
+	"member.h"
+
+1672158248 d:\project cyber cafe mangement\splash.h
+
+1672524368 d:\project cyber cafe mangement\login.h
+
+1672546606 d:\project cyber cafe mangement\menu.h
+	"ave.h"
+
+1672541838 d:\project cyber cafe mangement\ave.h
+
+1672547886 d:\project cyber cafe mangement\member.h
+
+1672548404 source:d:\cse project 0.1\main.c
+	<stdio.h>
+	<dos.h>
+	"splash.h"
+	"login.h"
+	"menu.h"
+	"member.h"
+
+1672158248 d:\cse project 0.1\splash.h
+
+1672524368 d:\cse project 0.1\login.h
+
+1672546606 d:\cse project 0.1\menu.h
+	"ave.h"
+
+1672541838 d:\cse project 0.1\ave.h
+
+1672547886 d:\cse project 0.1\member.h
+
